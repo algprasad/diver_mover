@@ -1,0 +1,8 @@
+prefix=/home/alg/underwater_ws/src/diver_mover/cmake-build-debug/devel
+
+Name: diver_mover
+Description: Description of diver_mover
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
